@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Oxicord-AppImage)](https://github.com/pkgforge-dev/Oxicord-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://private-user-images.githubusercontent.com/10554636/537365493-a66b4fe1-2270-459d-957c-d9620365044b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk0NDM4MjYsIm5iZiI6MTc3OTQ0MzUyNiwicGF0aCI6Ii8xMDU1NDYzNi81MzczNjU0OTMtYTY2YjRmZTEtMjI3MC00NTlkLTk1N2MtZDk2MjAzNjUwNDRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTIyVDA5NTIwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1Y2E0YzEyMTAwN2NiZDVhNGZkMzE1ZjdhNTNkOTgwNzg5YzM3MDM2OGFhNGE4ZDQ5ODQ5YmFmMDBhOWFhMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.B7ejmJaK2ji7aMwxwm9JUwN99nrshX3lldWW-_2Ldkg" width="128" />
 </p>
 
 
