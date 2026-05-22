@@ -12,7 +12,7 @@ export DESKTOP=DUMMY
 export MAIN_BIN=oxicord
 
 # Deploy dependencies
-quick-sharun /usr/bin/oxicord
+quick-sharun /usr/bin/oxicord /usr/bin/tmux
 
 # Additional changes can be done in between here
 
